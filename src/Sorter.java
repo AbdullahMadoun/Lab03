@@ -40,5 +40,9 @@ public class Sorter {
         insertionSort(arr);
         
     }
+    void sort(int[] arr){
+
+        selectionSort(arr);
+    }
     
 }
